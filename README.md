@@ -1,2 +1,1 @@
-Just my repo
-Nothing to see here
+Just my repo. Nothing to see here
